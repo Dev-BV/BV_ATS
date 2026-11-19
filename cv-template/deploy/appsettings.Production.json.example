@@ -1,0 +1,8 @@
+{
+  "ConnectionStrings": {
+    "AtsDb": "Data Source=10.9.8.27;Initial Catalog=application;User ID=<APP_DB_USER>;Password=<PASSWORD>;TrustServerCertificate=True"
+  },
+  "Auth": {
+    "SecureCookies": false
+  }
+}
